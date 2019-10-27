@@ -62,3 +62,8 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Vishal Bhola
+[VersatileVishal](https://github.com/VersatileVishal)
+> All of us do not have equal talent. But, all of us have equal opportunity to develop that talent.
+---
+
